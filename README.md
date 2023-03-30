@@ -6,7 +6,7 @@
      I am gaining hands-on experience in multiple programming languages and in my repositories you will find some projects on them.
      
      
-## Contact 
+#### Contact 
 - Email: [nikosmoutafis93@gmail.com](mailto:nikosmoutafis93@gmail.com)
           
 - LinkedIn: [My LinkedIn profile/ Nikos Moutafis](https://www.linkedin.com/in/nikos-moutafis-7b9391266/)
