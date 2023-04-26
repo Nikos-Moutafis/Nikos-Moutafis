@@ -1,4 +1,4 @@
- <h1 align=center> *Hi there* 👋 </h1>
+ *<h1 align=center >Hi there👋</h1>*
 
 -   I am  Nick Moutafis and  I have recently started studying full-stack development. I find it to be a very creative and interesting field and I want to explore
     the possibillities  that development has to offer.      
