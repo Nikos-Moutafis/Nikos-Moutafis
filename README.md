@@ -11,7 +11,5 @@
     
 ### Contact 
 
-
-- Email: [nikosmoutafis93@gmail.com](mailto:nikosmoutafis93@gmail.com)
           
 - LinkedIn: [My LinkedIn profile/ Nikos Moutafis](https://www.linkedin.com/in/nikos-moutafis-7b9391266/)
