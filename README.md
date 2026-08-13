@@ -9,7 +9,7 @@
     
 - I am working as Software Engineer the last 2½ years
   
-- I am currently pursuing a Masters of Science degree in Information Systems Development and Security
+- I am currently pursuing a Masters of Science degree in Information Systems Development and CyberSecurity
     
 ### Contact 
 
